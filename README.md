@@ -1,5 +1,4 @@
-License
-=======
+# License
 
 Default licensing to all TotalFreedom projects.
 
